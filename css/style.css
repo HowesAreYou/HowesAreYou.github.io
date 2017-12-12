@@ -18,6 +18,15 @@ body{
   
   }
   
+  .dark{
+    padding:15px;
+    background:#f90202;
+    color:#ffffff;
+    margin-top:10px;
+    margin-bottom:10px;
+    
+  }
+  
   /* Header **/
   header{
     background:#35424a;
@@ -104,6 +113,19 @@ body{
     float:right;
     width:30%;
     margin-top:10px;
+  }
+  
+  /* Main-col */
+  article#main-col{
+    float:left;
+    width:65%;
+  }
+  
+  /* Portfolio */
+  ul#portfolio li{
+    list-style:name;
+    padding:20px;
+    border: #;
   }
   
   footer{
