@@ -11,12 +11,58 @@ body{
     margin:auto;
     overflow:hidden;
   } 
+  .button_1{
+    height:38px;
+    background:Navajowhite;
+    border:0;
+    padding-left:10px;
+    padding-right:10px;
+    color:white;
+}
+
+.button_1:hover {
+    outline-style:outset;
+    cursor:pointer;
+}
+
+.home {
+    text-transform:none;
+}
+
+.dark {
+    padding:15px;
+    background:honeydew;
+    color:black;
+    margin-top:15px;
+    margin-bottom:10px;
+}
+
+.want-button{
+    height:38px;
+    background:Navajowhite;
+    border:0;
+    padding-left:10px;
+    padding-right:10px;
+    color:white;
+    cursor:pointer;
+}
+
+.want-button-1 {
+    height:38px;
+    background:Sienna;
+    border:0;
+    padding-left:10px;
+    padding-right:10px;
+    color:white;
+    cursor:pointer;
+}
+
+.want-button-1:hover {
+    outline-style:outset;
+    color:lightgoldenrodyellow;
+
   
-  header ul{
-    margin:0;
-    padding:0;
-  
-  }
+}
   
   .dark{
     padding:15px;
@@ -26,6 +72,30 @@ body{
     margin-bottom:10px;
     
   }
+  .want-button{
+    height:38px;
+    background:Navajowhite;
+    border:0;
+    padding-left:10px;
+    padding-right:10px;
+    color:white;
+    cursor:pointer;
+}
+
+.want-button-1 {
+    height:38px;
+    background:Sienna;
+    border:0;
+    padding-left:10px;
+    padding-right:10px;
+    color:white;
+    cursor:pointer;
+}
+
+.want-button-1:hover {
+    outline-style:outset;
+    color:lightgoldenrodyellow;
+}
   
   /* Header **/
   header{
@@ -42,6 +112,10 @@ body{
     text-transform: uppercase;
     font-size: 30px;
   }
+  
+    header ul{
+    margin:0;
+    padding:0;
   
   header li{
     float:left;
@@ -155,3 +229,14 @@ body{
     float:right;
 }
   
+/*project photos*/
+    #boxes .box1{
+        float:none;
+        text-align:center;
+        width:100%;
+        padding:10px;
+}
+    
+    #boxes .box1 img{
+        width:90px;
+}
