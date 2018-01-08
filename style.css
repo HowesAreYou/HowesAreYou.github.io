@@ -117,7 +117,7 @@ body{
     margin:0;
     padding:0;
   
-  header li{
+   header li{
     float:left;
     display:inline;
     padding: 0 20px 0 20px;
@@ -150,7 +150,6 @@ body{
   #showcase{
     min-height:400px;
     background:url('../img/showcase5.jpg');
-    
     text-align:center;
     color:#f90202;
   }
