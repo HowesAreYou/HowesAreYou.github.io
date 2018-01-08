@@ -37,7 +37,7 @@ body{
   }
   
   header a{
-    color:#a9afba;
+    color:#0259f9;
     text-decoration: non;
     text-transform: uppercase;
     font-size: 30px;
@@ -75,7 +75,8 @@ body{
   /* Showcase */
   #showcase{
     min-height:400px;
-    background:url('../img/showcase2.jpg');
+    background:url('../img/showcase5.jpg');
+    
     text-align:center;
     color:#f90202;
   }
@@ -87,6 +88,7 @@ body{
   }
   
   #showcase p{
+    color:#ffffff;
     font-size:25px;
     font-weight:bold;
   }
