@@ -130,6 +130,7 @@ body{
     border:20px;
   }
   
+  /*Footer*/
   footer{
     padding:20px;
     margin-top:20px;
@@ -138,4 +139,19 @@ body{
     text-align: center;
   }
   
+  
+/* Projects Page */
+
+#main-col1 {
+    margin:0;
+    padding:30px;
+    float:left;
+    width:90%;
+}
+
+.more{
+    width:100px;
+    height:100px;
+    float:right;
+}
   
